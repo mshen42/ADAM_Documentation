@@ -1,3 +1,5 @@
+layout: dashboard
+
 <h1>Dashboard Tutorial</h1> 
 
 <img src="Pictures\meeting.png" width="20%">
@@ -30,8 +32,3 @@
 <a href="prod_database.html">Using the Product Database</a>
 <br>
 <a href="tech_database.html">Using the Technology Database</a>
-
-
-<footer>
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-</footer>
