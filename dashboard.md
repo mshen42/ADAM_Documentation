@@ -1,4 +1,6 @@
+---
 layout: dashboard
+---
 
 <h1>Dashboard Tutorial</h1> 
 
