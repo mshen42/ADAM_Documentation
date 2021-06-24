@@ -2,9 +2,9 @@
 layout: dashboard
 ---
 
-<h1>Dashboard Tutorial</h1> 
+<h1><img src="Pictures\meeting.png" width="10%">Dashboard Tutorial</h1> 
 
-<img src="Pictures\meeting.png" width="20%">
+
 
 <h2>Welcome to the Dashboard Tutorial!</h2>
 
