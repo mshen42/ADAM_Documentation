@@ -1,8 +1,8 @@
-<h1>Dashboard Tutorial</h1>
-
-<h2>Welcome to the Dashboard Tutorial!</h2>
+<h1>Dashboard Tutorial</h1> 
 
 <img src="Pictures\meeting.png" width="20%">
+
+<h2>Welcome to the Dashboard Tutorial!</h2>
 
 <p>
     This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the first set of tutorials in order to get familiar with ADAM. 
