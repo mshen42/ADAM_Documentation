@@ -2,10 +2,11 @@
 
 <h2>Welcome to the Dashboard Tutorial!</h2>
 
+<img src="Pictures\meeting.png" width="20%">
+
 <p>
     This webpage contains several tutorials to teach you how to navigate and use the features in the dashboard. For a first-time user, we reccomend going through the first set of tutorials in order to get familiar with ADAM. 
 </p>
-
 
 <h2>Contents</h2>
 
@@ -25,3 +26,12 @@
 <a href="/ADAM_Documentation/dashboard_vis_tool.html">Using the Visualization Tool</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_p_graph.html">Interpreting the P-Graph</a>
+<br>
+<a href="prod_database.html">Using the Product Database</a>
+<br>
+<a href="tech_database.html">Using the Technology Database</a>
+
+
+<footer>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+</footer>
